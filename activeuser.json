@@ -14,8 +14,8 @@
   {
     "device_id": "8150a4fedc9f1ed6",
     "key": "mrsecondg",
-    "expirydate": "15-06-2028",
-    "Allowoffline": true
+    "expirydate": "15-06-2021",
+    "Allowoffline": false
   },
   {
     "device_id": "55ddb2a78bb92a9d",
