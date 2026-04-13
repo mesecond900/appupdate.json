@@ -1,16 +1,32 @@
 [
-    {
-        "device_id": "8bb327552d9b544e",
-        "username": "user",
-        "password": "pass",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
+  {
+    "device_id": "device123",
+    "key": "key12345",
+    "expirydate": "31-12-2025",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "device456",
+    "key": "key67890",
+    "expirydate": "15-06-2025",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "55ddb2a78bb92a9d",
+    "key": "key6789",
+    "expirydate": "15-06-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "55ddb2a78bb92a9d",
+    "key": "key678",
+    "expirydate": "15-06-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "c6bfd974daa089ef",
+    "key": "key68",
+    "expirydate": "15-06-2026",
+    "Allowoffline": false
+  }
 ]
